@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset (too large for GitHub, see README for download)
+dataset/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
